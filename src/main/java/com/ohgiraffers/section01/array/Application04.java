@@ -27,6 +27,7 @@ public class Application04 {
         avg = sum/ scores.length;
             System.out.println(avg);
             System.out.println(avg);
+            System.out.println(avg);
     }
 
 }
