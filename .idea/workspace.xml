@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b00ba02-2282-4f97-b5f5-c42f6f45d894" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/copy/Application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/copy/Application02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/copy/Application03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/copy/Application04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/sort/Application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/sort/Application02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/sort/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="9b00ba02-2282-4f97-b5f5-c42f6f45d894" name="Changes" comment="12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/sort/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/sort/Application02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section03/sort/Application02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +24,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chap05-array-lecture-source" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -55,33 +54,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application01.executor": "Run",
-    "Application.Application02.executor": "Run",
-    "Application.Application03.executor": "Run",
-    "Application.Application04.executor": "Run",
-    "Application.Application3.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.com.ohgiraffers.section03.sort.Application01.executor": "Run",
-    "Application.com.ohgiraffers.section03.sort.Application02.executor": "Run",
-    "Gradle.chap05-array-lecture-source [:Application01.main()].executor": "Run",
-    "Gradle.chap05-array-lecture-source [:Application3.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ohgiraffers.section03.sort.Application01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ohgiraffers.section03.sort.Application02.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap05-array-lecture-source [:Application01.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap05-array-lecture-source [:Application3.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/choegyuhyeog/Desktop/java/lecture-source/chap05-array-lecture-source&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.com.ohgiraffers.section03.sort.Application02">
+}</component>
+  <component name="RunManager" selected="Application.com.ohgiraffers.section03.sort.Application01">
     <configuration name="Application03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ohgiraffers.section02.copy.Application03" />
       <module name="chap05-array-lecture-source.main" />
@@ -149,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ohgiraffers.section03.sort.Application01" />
         <item itemvalue="Application.com.ohgiraffers.section03.sort.Application02" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.com.ohgiraffers.section03.sort.Application01" />
         <item itemvalue="Application.Application04" />
         <item itemvalue="Application.Application03" />
       </list>
@@ -187,7 +187,10 @@
       <workItem from="1707900287929" duration="43000" />
       <workItem from="1707900332841" duration="362000" />
       <workItem from="1707956905218" duration="5738000" />
-      <workItem from="1707974563000" duration="8864000" />
+      <workItem from="1707974563000" duration="9092000" />
+      <workItem from="1708043626924" duration="645000" />
+      <workItem from="1708063176297" duration="1486000" />
+      <workItem from="1708072105243" duration="852000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -213,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707900627237</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12">
+      <option name="closed" value="true" />
+      <created>1707987654854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707987654854</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +233,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
 </project>
